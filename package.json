@@ -1,0 +1,22 @@
+{
+  "name": "command-line-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mattdack/command-line-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mattdack/command-line-website/issues"
+  },
+  "homepage": "https://github.com/Mattdack/command-line-website#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
